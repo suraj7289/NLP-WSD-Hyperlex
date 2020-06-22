@@ -1,0 +1,6 @@
+1. Keep below 3 files (provided in zip file) in same folder - 
+   a) corpus.txt 
+   b) 2019900038_assignment_3.py
+   c) input.txt
+
+Command to run - python 2019900038_assignment_3.py input.txt
