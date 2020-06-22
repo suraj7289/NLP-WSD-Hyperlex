@@ -1,6 +1,6 @@
-1. Keep below 3 files (provided in zip file) in same folder - 
+1. Keep below 3 files in same folder - 
    a) corpus.txt 
    b) Hyperlex_WSD_Code.py
    c) input.txt
 
-Command to run - python 2019900038_assignment_3.py input.txt
+Command to run - python Hyperlex_WSD_Code.py input.txt
